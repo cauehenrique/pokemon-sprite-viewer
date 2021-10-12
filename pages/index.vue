@@ -20,5 +20,8 @@
       <span>Type a Pokémon name into the URL to get started!</span>
       <NuxtLink to="/pikachu" class="text-blue-500 underline block">/pikachu</NuxtLink>
     </div>
+    <div>
+      <GitHub />
+    </div>
   </div>
 </template>
